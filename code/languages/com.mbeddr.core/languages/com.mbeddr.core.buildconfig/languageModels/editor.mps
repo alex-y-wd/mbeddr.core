@@ -179,7 +179,7 @@
       <concept id="4836112446988635817" name="jetbrains.mps.baseLanguage.structure.UndefinedType" flags="in" index="2jxLKc" />
       <concept id="1202948039474" name="jetbrains.mps.baseLanguage.structure.InstanceMethodCallOperation" flags="nn" index="liA8E" />
       <concept id="5293379017992965193" name="jetbrains.mps.baseLanguage.structure.StubStatementList" flags="ig" index="2lzX1y" />
-      <concept id="1465982738277781862" name="jetbrains.mps.baseLanguage.structure.PlaceholderMember" flags="ng" index="2tJIrI" />
+      <concept id="1465982738277781862" name="jetbrains.mps.baseLanguage.structure.PlaceholderMember" flags="nn" index="2tJIrI" />
       <concept id="1188207840427" name="jetbrains.mps.baseLanguage.structure.AnnotationInstance" flags="nn" index="2AHcQZ">
         <reference id="1188208074048" name="annotation" index="2AI5Lk" />
       </concept>
@@ -2765,7 +2765,7 @@
                 <ref role="ehGHo" to="51wr:7$0wAVob45N" resolve="PlatformTemplateContainer" />
               </node>
               <node concept="9H$SH" id="2cvVnUv6DBM" role="33vP2m">
-                <ref role="9Hxhg" to="f66f:7$0wAVocgV$" />
+                <ref role="9Hxhg" to="f66f:7$0wAVocgV$" resolve="Platform Templates" />
                 <node concept="2OqwBi" id="2cvVnUv6DBN" role="9HWM5">
                   <node concept="2JrnkZ" id="2cvVnUv6DBO" role="2Oq$k0">
                     <node concept="1rpKSd" id="2cvVnUv6DBW" role="2JrQYb" />
@@ -2815,7 +2815,7 @@
                 </node>
                 <node concept="2OqwBi" id="2cvVnUv6DCZ" role="33vP2m">
                   <node concept="9H$SH" id="2cvVnUv6DD0" role="2Oq$k0">
-                    <ref role="9Hxhg" to="f66f:7$0wAVocgV$" />
+                    <ref role="9Hxhg" to="f66f:7$0wAVocgV$" resolve="Platform Templates" />
                     <node concept="2OqwBi" id="2cvVnUv6DD1" role="9HWM5">
                       <node concept="2JrnkZ" id="2cvVnUv6DD2" role="2Oq$k0">
                         <node concept="1rpKSd" id="2cvVnUv6DE1" role="2JrQYb" />

@@ -28,7 +28,7 @@
       </concept>
       <concept id="4836112446988635817" name="jetbrains.mps.baseLanguage.structure.UndefinedType" flags="in" index="2jxLKc" />
       <concept id="1202948039474" name="jetbrains.mps.baseLanguage.structure.InstanceMethodCallOperation" flags="nn" index="liA8E" />
-      <concept id="1465982738277781862" name="jetbrains.mps.baseLanguage.structure.PlaceholderMember" flags="ng" index="2tJIrI" />
+      <concept id="1465982738277781862" name="jetbrains.mps.baseLanguage.structure.PlaceholderMember" flags="nn" index="2tJIrI" />
       <concept id="1239714755177" name="jetbrains.mps.baseLanguage.structure.AbstractUnaryNumberOperation" flags="nn" index="2$Kvd9">
         <child id="1239714902950" name="expression" index="2$L3a6" />
       </concept>
@@ -553,7 +553,7 @@
                         <node concept="1sne01" id="4U0cQfJW$f6" role="1sne8H">
                           <ref role="1snh0D" to="tpck:4uZwTti3__2" resolve="smodelAttribute" />
                           <node concept="1sne01" id="4U0cQfJW$f7" role="1sne05">
-                            <ref role="1snh0D" to="yq40:5sJgLFR$y$3" resolve="index" />
+                            <ref role="1snh0D" to="yq40:5sJgLFR$y$3" resolve="indexExpr" />
                             <node concept="1snrkl" id="4U0cQfJW$f8" role="1sne05">
                               <ref role="1snrk2" to="mj1l:1UQ4qqfV3yK" resolve="value" />
                               <node concept="2YIFZM" id="4U0cQfJW$f9" role="1snq_E">
@@ -662,7 +662,7 @@
                             <node concept="1sne01" id="4U0cQfK87qi" role="1sne8H">
                               <ref role="1snh0D" to="tpck:4uZwTti3__2" resolve="smodelAttribute" />
                               <node concept="1sne01" id="4U0cQfK87qj" role="1sne05">
-                                <ref role="1snh0D" to="yq40:5sJgLFR$y$3" resolve="index" />
+                                <ref role="1snh0D" to="yq40:5sJgLFR$y$3" resolve="indexExpr" />
                                 <node concept="1snrkl" id="4U0cQfK87qk" role="1sne05">
                                   <ref role="1snrk2" to="mj1l:1UQ4qqfV3yK" resolve="value" />
                                   <node concept="2YIFZM" id="4U0cQfK87ql" role="1snq_E">

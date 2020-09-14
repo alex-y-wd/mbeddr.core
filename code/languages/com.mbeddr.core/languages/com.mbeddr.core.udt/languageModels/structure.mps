@@ -507,7 +507,7 @@
       <ref role="20lvS9" to="mj1l:7FQByU3CrCM" resolve="Expression" />
     </node>
     <node concept="PrWs8" id="5aZFu$857pK" role="PzmwI">
-      <ref role="PrY4T" to="c4fa:5aZFu$853$j" resolve="IIndependentIinitExpression" />
+      <ref role="PrY4T" to="c4fa:5aZFu$853$j" resolve="IIndependentInitExpression" />
     </node>
     <node concept="PrWs8" id="53$tGqN_r9d" role="PzmwI">
       <ref role="PrY4T" to="c4fa:3$tYuge5dpc" resolve="IStructuredInitExpression" />
